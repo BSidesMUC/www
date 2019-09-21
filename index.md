@@ -19,4 +19,6 @@ Check back here for more information, [sign up for our newsletter]({{ site.confe
 
 {% include testimonial_row.html year=site.conference.archive.a2018 %}
 
+{% include testimonial_row.html year=site.conference.archive.a2017%}
+
 

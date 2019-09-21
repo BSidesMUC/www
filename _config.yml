@@ -145,6 +145,28 @@ conference:
       - src: img/slider2018/MS-P4090241.jpg
       - src: img/slider2018/MS-P4090485.jpg
       - src: img/slider2018/MS-P4090947.jpg
+    a2017:
+      title: "BSides Munich 2017"
+      participants: 78
+      presentations: 10
+      workshops: 3
+      hours: 16
+      website_uri: http://2017.bsidesmunich.org
+      recordings_uri: https://www.youtube.com/watch?v=k_D3GzzJ5hA&list=PL8N5HiRDvZ-dL4MElY5NUKmaqDmI7QfVy
+      archiveorg_uri: https://archive.org/details/BSidesMunich2017
+      slider:
+      - src: img/slider2017/organizers.jpg
+      - src: img/slider2017/IMG_20170403_145820.jpg
+      - src: img/slider2017/P4030023.jpg
+      - src: img/slider2017/P4030056.jpg
+      - src: img/slider2017/P4030102.jpg
+      - src: img/slider2017/P4030244.jpg
+      - src: img/slider2017/P4030312.jpg
+      - src: img/slider2017/P4030371.jpg
+      - src: img/slider2017/P4030518.jpg
+      - src: img/slider2017/P4030577.jpg
+      - src: img/slider2017/P4030676.jpg
+      - src: img/slider2017/P4030704.jpg
 compress_html:
   clippings: all
   comments: all
