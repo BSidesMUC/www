@@ -1,6 +1,6 @@
 ---
 layout: textpage
-title: BSidesMunich is looking for your support for 2020!
+title: BSidesMunich is looking for your support for spring 2020!
 
 global_header: false
 ---
