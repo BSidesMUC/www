@@ -44,78 +44,42 @@ conference:
     # sponsor logos should all have the same format (at least width)
 # uncomment it to fill sponsors in
     platinum:
-    - name: Talos
-      logo: /img/sponsors/TalosBrand_RGB.png
-      uri: https://www.talosintelligence.com/
-      
+    - name: 
+      logo: 
+      uri: 
     gold:
-    - name: Google
-      logo: /img/sponsors/google.png
-      uri: https://www.google.com
-    - name: TÜV SÜD AG
-      logo: /img/sponsors/tuvsud.jpg
-      uri: https://www.tuev-sued.de/sec-it
-      
+    - name: 
+      logo: 
+      uri: 
     silver:
-    - name: AUDI AG
-      logo: /img/sponsors/AUDI.png
-      uri: https://www.audi.com/de/career.html
-    - name: Context Information Systems
-      logo: /img/sponsors/Context_Information_Security.png
-      uri: https://www.contextis.com/de/
-    - name: CYOSS
-      logo: /img/sponsors/CYOSS.png
-      uri: https://cyoss.com/
-    - name: NSIDE ATTACK LOGIC GmbH
-      logo: /img/sponsors/NSIDE.png
-      uri: https://www.nsideattacklogic.de/
-      
+    - name: 
+      logo: 
+      uri: 
     bronze:
-    - name: BMW
-      logo: /img/sponsors/BMW.png
-      uri: "#"
-    - name: Eurofins Cyber Security Germany
-      logo: /img/sponsors/EurofinsCyberSecurity.jpg
-      uri: "#"
-    - name: Huawei
-      logo: /img/sponsors/huawei.png
-      uri: https://www.huawei.com/en/
-    - name: Kemetmüller
-      logo: /img/sponsors/xn--kemetmller-feb.png
-      uri: https://xn--kemetmller-feb.com
-    - name: MOGWAI LABS
-      logo: /img/sponsors/mogwailabs_logo-white.svg.png
-      uri: https://mogwailabs.de
-    - name: SIEMENS
-      logo: /img/sponsors/siemens.png
-      uri: https://siemens.com/cert/
-
+    - name: 
+      logo: 
+      uri: 
     community:
     - name: Elbsides
       logo: /img/sponsors/elbsides.png
       uri: https://elbsides.de/
 
   links:
-    sponsorpackage_en_uri: /files/BSidesMunich2019Sponsorship-English.pdf
-    sponsorpackage_de_uri: /files/BSidesMunich2019Sponsorship-Deutsch.pdf
-    cfw_uri: https://goo.gl/forms/dcwtRzPZXw4SXtAo1
-    cfp_uri: https://goo.gl/forms/hWYIEpzBBmYaws3f1
-    contickets_uri: https://bsidesmunich.eventbrite.de/
-    contickets_state: Waiting list is open
-  dates: 
-    deadline_tickets: 2019-12-18
-    deadline_cfp: 2019-01-18
-    workshops: 2019-03-24
-    conference: 2019-03-25
-  venue:
-    workshopsday:
-      address: "TÜV SÜD, Gebäude Newton, Ridlerstraße 57, 80339 München"
-      details: "<a href=\"http://www.tuev-sued.de/bsidesmunich\">„Welcome“</a> by <a href=\"https://www.linkedin.com/in/stefan-v-29bb36160/\">Stefan Vollmer</a> Chief Technology Officer, TÜV SÜD Sec-IT GmbH"
-      maps_uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1331.3731707839243!2d11.530505623861135!3d48.13441493430886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479dd8a6ea582c0f%3A0x7b834e5628f56c17!2sRidlerstra%C3%9Fe+57%2C+80339+M%C3%BCnchen!5e0!3m2!1sen!2sde!4v1549919154591
-    conferenceday:
-      address: "Google, Erika-Mann-Straße 33, 80636 München"
-      maps_uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2662.30581431014!2d11.538758615649174!3d48.14290917922379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e758b6989ce1b%3A0xdd1b393a488b0ebf!2sGoogle!5e0!3m2!1sen!2sde!4v1541714147122
+    sponsorpackage_en_uri: 
+    sponsorpackage_de_uri: 
+    cfw_uri: 
+    cfp_uri: 
+    contickets_uri: 
+    contickets_state: 
   archive:
+    a2020:
+      title: "BSides Munich 2020"
+      participants: 
+      presentations: 
+      workshops: 
+      hours: 
+      website_uri: https://2020.bsidesmunich.org
+      recordings_uri: 
     a2019:
       title: "BSides Munich 2019"
       participants: 343
