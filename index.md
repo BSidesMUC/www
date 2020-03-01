@@ -1,6 +1,6 @@
 ---
 layout: textpage
-title: BSidesMunich is looking for your support for spring [2020](https://2020.bsidesmunich.org)!
+title: BSidesMunich is happening [2020](https://2020.bsidesmunich.org)!
 
 global_header: false
 ---
