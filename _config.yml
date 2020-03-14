@@ -80,6 +80,7 @@ conference:
       hours: 
       website_uri: https://2020.bsidesmunich.org
       recordings_uri: 
+      cancelled: "Cancelled"
     a2019:
       title: "BSides Munich 2019"
       participants: 343

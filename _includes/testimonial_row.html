@@ -62,6 +62,23 @@
 
     </div>
 
+    {% else if include.year.cancelled  %}
+    <div class="row">
+     <div class="col-md-12">
+       <div class="row counter-box">
+         <div class="col-md-6 col-md-offset-3 col-xs-6 col-xs-offset-3">
+           <h3>{{ include.year.cancelled }}</h3>
+         </div>
+       </div>
+       <div class="row counter-box">
+         <div class="col-md-6 col-md-offset-3 col-xs-6 col-xs-offset-3">
+           <a class="btn btn-default" href="{{ include.year.website_uri }}">Website</a>
+         </div>
+       </div>
+     </div>
+
+   </div>
+
     {% else %}
      <div class="row">
       <div class="col-md-12">

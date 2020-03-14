@@ -1,11 +1,11 @@
 ---
 layout: textpage
-title: BSidesMunich is happening [2020](https://2020.bsidesmunich.org)!
+title: Welcome to BSides Munich
 
 global_header: false
 ---
 
-BSidesMunich is the premiere, independently organized computer security event in the Munich, Germany area, bringing together both local and internationally renowned experts.
+BSides Munich is the premiere, independently organized computer security event in the Munich, Germany area, bringing together both local and internationally renowned experts.
 As an offshoot of our Meetup group, [MUC:SEC](https://www.meetup.com/MUC-SEC/?_cookie-check=ShoizzNwjDGCiHdW), this conference extends our goals of bringing local computer security professionals together, exchanging ideas and experience and most importantly, establishing trust relationship within our community. 
 This event is free.
 

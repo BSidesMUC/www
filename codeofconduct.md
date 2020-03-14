@@ -5,7 +5,7 @@ permalink: /codeofconduct/
 ---
 
 ### Purpose and Scope
-The primary purpose of the BSidesMunich Code of Conduct is to provide the foundation for the inclusion of a diverse range of contributors and participants so that we can focus on exchanging ideas about security. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, academic background and religion (or lack thereof).
+The primary purpose of the BSides Munich Code of Conduct is to provide the foundation for the inclusion of a diverse range of contributors and participants so that we can focus on exchanging ideas about security. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, academic background and religion (or lack thereof).
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and  guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
@@ -36,4 +36,4 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 
 ### License and attribution
-The BSidesMunich Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [berlincodeofconduct.org](http://berlincodeofconduct.org).
+The BSides Munich Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [berlincodeofconduct.org](http://berlincodeofconduct.org).
