@@ -80,7 +80,7 @@ conference:
       hours: 
       website_uri: https://2020.bsidesmunich.org
       recordings_uri: 
-      cancelled: "Cancelled"
+      cancelled: "BSidesMunich 2020 is going Virtual - BSMaaS:2020.08.23"
     a2019:
       title: "BSides Munich 2019"
       participants: 343
