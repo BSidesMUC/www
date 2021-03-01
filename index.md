@@ -15,6 +15,8 @@ So the success of the event will depend on your active participation, give a tal
 
 Check back here for more information, [sign up for our newsletter]({{ site.conference.newsletter }}) or [follow us on twitter]({{ site.conference.twitter }}) to get the latest about our conference!
 
+{% include testimonial_row.html year=site.conference.archive.a2021 %}
+
 {% include testimonial_row.html year=site.conference.archive.a2020 %}
 
 {% include testimonial_row.html year=site.conference.archive.a2019 %}

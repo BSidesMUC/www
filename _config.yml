@@ -72,15 +72,25 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
-    a2020:
-      title: "BSides Munich 2020"
+    a2021:
+      title: "BSides Munich 2021"
       participants: 
       presentations: 
       workshops: 
       hours: 
-      website_uri: https://2020.bsidesmunich.org
+      website_uri: https://2021.bsidesmunich.org
       recordings_uri: 
-      cancelled: "BSidesMunich 2020 is going Virtual - BSMaaS:2020.08.23"
+      cancelled: "BSides Munich joins forces with ElbSides - #BSidesMEsh21"
+    a2020:
+      title: "BSMaaS:2020.08.23"
+      participants: 661
+      presentations: 8
+      workshops: 0
+      hours: 5
+      website_uri: https://2020.bsidesmunich.org
+      recordings_uri: https://www.youtube.com/playlist?list=PL8N5HiRDvZ-eMEwvQmnw3u26CubSr02cD
+      slider:
+      - src: img/slider2020/header.png
     a2019:
       title: "BSides Munich 2019"
       participants: 343
