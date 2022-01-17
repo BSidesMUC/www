@@ -1,0 +1,36 @@
+{::nomarkdown}
+    </div>
+  </div>
+</section>
+{:/}
+
+{% if include.year %}
+
+<section id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        <h2>{{ include.year.title }}</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row counter-box">
+          <div class="col-md-6 col-md-offset-3 col-xs-6 col-xs-offset-3">
+            <h3>{{ include.year.description }}</h3>
+          </div>
+        </div>
+        <div class="row counter-box">
+          <div class="col-md-6 col-md-offset-3 col-xs-6 col-xs-offset-3">
+            <a class="btn btn-default" href="{{ include.year.website_uri }}">Website</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+{% endif %}

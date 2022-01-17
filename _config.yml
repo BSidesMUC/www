@@ -72,15 +72,22 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
+    a2022:
+      title: "BSides Munich 2022"
+      description: "Planning has started"
+      website_uri: "https://2022.bsidesmunich.org/"
     a2021:
       title: "BSides Munich 2021"
-      participants: 
-      presentations: 
-      workshops: 
-      hours: 
+      participants: 750
+      presentations: 20
+      workshops: 6
+      hours: 16
       website_uri: https://2021.bsidesmunich.org
-      recordings_uri: 
-      cancelled: "BSides Munich joins forces with Elbsides - #BSidesMEsh21"
+      recordings_uri: https://www.youtube.com/playlist?list=PL8N5HiRDvZ-d4E2JUsQjnNK_2eE_dDZTW
+      #cancelled: "BSides Munich joins forces with Elbsides - #BSidesMEsh21"
+      slider:
+      - src: img/slider2021/elbsidesPlaylist.png
+      - src: img/slider2021/bsidesmunichPlaylist.png
     a2020:
       title: "BSMaaS:2020.08.23"
       participants: 661
