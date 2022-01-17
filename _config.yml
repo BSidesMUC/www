@@ -77,7 +77,7 @@ conference:
       description: "Planning has started"
       website_uri: "https://2022.bsidesmunich.org/"
     a2021:
-      title: "BSides Munich 2021"
+      title: "BSidesMEsh21"
       participants: 750
       presentations: 20
       workshops: 6
