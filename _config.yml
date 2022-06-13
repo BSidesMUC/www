@@ -74,8 +74,17 @@ conference:
   archive:
     a2022:
       title: "BSides Munich 2022"
-      description: "Thank you to everyone for making BSides Munich 2022 a success!"
-      website_uri: "https://2022.bsidesmunich.org/"
+      participants: 232
+      presentations: 18
+      workshops: 4
+      hours: 30
+      website_uri: https://2022.bsidesmunich.org
+      recordings_uri: https://www.youtube.com/playlist?list=PL8N5HiRDvZ-d3KkFLZPu2K0M4yZhDdr-T
+      slider:
+      - src: img/slider2022/P5150095.jpeg
+      - src: img/slider2022/P5160495.jpeg
+      - src: img/slider2022/P5162247.jpeg
+      - src: img/slider2022/P5160318.jpeg
     a2021:
       title: "BSidesMEsh21"
       participants: 750
@@ -84,7 +93,6 @@ conference:
       hours: 16
       website_uri: https://2021.bsidesmunich.org
       recordings_uri: https://www.youtube.com/playlist?list=PL8N5HiRDvZ-d4E2JUsQjnNK_2eE_dDZTW
-      #cancelled: "BSides Munich joins forces with Elbsides - #BSidesMEsh21"
       slider:
       - src: img/slider2021/elbsidesPlaylist.png
       - src: img/slider2021/bsidesmunichPlaylist.png
