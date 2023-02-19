@@ -72,6 +72,10 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
+    a2023:
+      title: "BSides Munich 2023"
+      description: "Planning in Progress"
+      website_uri: "https://2023.bsidesmunich.org/"
     a2022:
       title: "BSides Munich 2022"
       participants: 232
