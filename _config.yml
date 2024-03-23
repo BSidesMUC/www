@@ -73,10 +73,20 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
+    a2024:
+      title: "BSides Munich 2024"
+      description: "tba"
+      website_uri: "https://2024.bsidesmunich.org/"
     a2023:
       title: "BSides Munich 2023"
-      description: "7 SYNs"
-      website_uri: "https://2023.bsidesmunich.org/"
+      participants: 350
+      presentations: 20
+      workshops: 8
+      hours: 30
+      website_uri: https://2023.bsidesmunich.org
+      recordings_uri: https://www.youtube.com/watch?v=A0InqK78dME&list=PL8N5HiRDvZ-dVdLNXf6kC3WDi8AWBS27g
+      slider:
+      - src: img/slider-bg.png
     a2022:
       title: "BSides Munich 2022"
       participants: 232
