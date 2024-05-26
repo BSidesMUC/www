@@ -2,7 +2,7 @@
 layout: textpage
 title: Welcome to BSides Munich
 
-global_header: false
+global_header: true
 ---
 
 BSides Munich is the premiere, independently organized computer security event in the Munich, Germany area, bringing together both local and internationally renowned experts.
