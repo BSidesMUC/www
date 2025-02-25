@@ -15,7 +15,9 @@ So the success of the event will depend on your active participation, give a tal
 
 Check back here for more information, [follow us on twitter]({{ site.conference.twitter }}) and [join Discord]({{ site.conference.discord }}) to get the latest about our conference!
 
-{% include current_conference.html year=site.conference.archive.a2024 %}
+{% include current_conference.html year=site.conference.archive.a2025 %}
+
+{% include testimonial_row.html year=site.conference.archive.a2024 %}
 
 {% include testimonial_row.html year=site.conference.archive.a2023 %}
 

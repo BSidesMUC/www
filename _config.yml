@@ -73,10 +73,21 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
+    a2025:
+      title: "BSides Munich 2024"
+      description: "TBA"
+      website_uri: "https://2025.bsidesmunich.org/"
     a2024:
       title: "BSides Munich 2024"
-      description: "8-Bit Edition :: Forged by HI"
+      participants: 364
+      presentations: 22
+      workshops: 6
+      hours: 40
       website_uri: "https://2024.bsidesmunich.org/"
+      recordings_uri: https://www.youtube.com/watch?v=osPEOGgkJjY&list=PL8N5HiRDvZ-ep6hwYBK4BjrmI2qV8Zl24
+      slider:
+      - src: img/slider-bg.png
+      
     a2023:
       title: "BSides Munich 2023"
       participants: 350
