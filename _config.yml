@@ -73,10 +73,26 @@ conference:
     contickets_uri: 
     contickets_state: 
   archive:
+    a2026:
+      title: "BSides Munich 2026"
+      description: "TBD"
+      website_uri: "https://2026.bsidesmunich.org/"
     a2025:
       title: "BSides Munich 2025"
+      participants: 463
+      presentations: 21
+      workshops: 12
+      hours: 66
       description: "The NEINth Edition"
       website_uri: "https://2025.bsidesmunich.org/"
+      recordings_uri: "https://www.youtube.com/watch?v=KZSZ8DZNwMI&list=PL8N5HiRDvZ-cvW9miva4rFc55Zh091zHa"
+      slider:
+      - src: img/slider2025/talk.jpg
+      - src: img/slider2025/talk2.jpg
+      - src: img/slider2025/sponsor.jpg
+      - src: img/slider2025/team2025.jpg
+      - src: img/slider2025/hw.jpg
+      - src: img/slider2025/lawyer.jpg
     a2024:
       title: "BSides Munich 2024"
       participants: 364
